@@ -3,7 +3,6 @@ import con as snow
 import base64
 from urllib.parse import parse_qs
 import traceback
-import passes
 import base64
 import re
 
