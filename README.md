@@ -1,5 +1,8 @@
 # Repository README
 
+This is the AWS Lambda Python Code and GPT instructions and custom Action for getting your OPENAI GPTs to talk to Snowflake
+
+
 ## Lambda Setup
 
 1. **Upload Files to AWS Lambda:**
